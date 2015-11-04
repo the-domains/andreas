@@ -1,0 +1,23 @@
+name: andreas
+favicon: null
+layout_spectrum: 0.3168223281390965
+typography_spectrum: 0.304743648506701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2536057566758245
+  lightness: 0.8176945995073766
+  saturation: 0.6545502366498113
+  rhythmicContrast: 0.11038674670271575
+purpose: []
